@@ -32,7 +32,7 @@ Steps:
 - Build tables on Redshift,
 - Copy data to Redshift
 
-!()
+!(Data_engineering/Covid19_ETL_project/screens/data_pipeline.png)
 
 ## Files
 
