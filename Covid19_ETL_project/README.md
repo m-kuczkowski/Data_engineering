@@ -8,7 +8,7 @@ In this project I used:
 
 - Amazon S3 - used to store initial, raw data downloaded from the source. Then after completing transformations final tables were also uploaded to the bucket and then send to the Redshift
 
-- AWS Glue / Crawler -  - used to perform 'jobs' that moved initial data from S3 to Athena, and transformed data from S3 to Redshift
+- AWS Glue / Crawler - used to perform 'jobs' that moved initial data from S3 to Athena, and transformed data from S3 to Redshift
 
 - Amazon Athena - used to perform various checks on data quality, amount of data and structure of tables by generating DDL tables.
 
