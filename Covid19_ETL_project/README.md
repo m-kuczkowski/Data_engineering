@@ -19,9 +19,12 @@ In this project I used:
 ## Data schema
 
 Star schema was used, as it simplifies querying and aggregating data
-!()
+
+![schema](screens/data_schema.png)
 
 ## Data pipeline
+
+![data_pipeline](screens/data_pipeline.png)
 
 Steps:
 - Relational data model,
@@ -31,8 +34,6 @@ Steps:
 - Glue deployment
 - Build tables on Redshift,
 - Copy data to Redshift
-
-!(Data_engineering/Covid19_ETL_project/screens/data_pipeline.png)
 
 ## Files
 
